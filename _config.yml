@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "wechat.png"
+  avatar           : "avator.png"
   name             : "Lian Niu"
   pronouns         : # example: "she/her"  
   bio              : "A sophomore college student"
